@@ -1,0 +1,2 @@
+# Production Grade End-to-End Deployment of a Full Stack Blogging Application
+Built and deployed a production-ready full-stack blogging application using Java (Spring Boot), Docker, and Kubernetes. Implemented an end-to-end CI/CD pipeline with GitHub Actions, including automated testing, security scanning, containerization, monitoring, and continuous deployment, ensuring scalable, secure, and reliable application delivery.
